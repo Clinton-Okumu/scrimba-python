@@ -1,0 +1,1 @@
+this is a course on python that i undertook on the scrimba platform.
